@@ -3,7 +3,7 @@
     <v-card >
 
       <v-toolbar color="teal lighten-2" dark >
-        <v-app-bar-nav-icon></v-app-bar-nav-icon>
+        <v-icon left>mdi-view-dashboard</v-icon>
         <v-toolbar-title> Dashboard</v-toolbar-title>
         <v-spacer></v-spacer> 
             <img src="./assets/white-labs-plain.png" height="50" />
